@@ -1,0 +1,7 @@
+.leftPart{border: 1px solid; width: 48%; float: left; padding: 10px;}
+.rightPart{border: 1px solid; width: 48%; float: left; padding: 10px;}
+
+.calendar{border: 1px solid; width: 310px; height: 213px;}
+.calendar .head {border: 1px solid;height: 40px;width: 98%;margin: 0 auto; text-align: center; background-color: mediumblue;color: #fff;}
+.calendar .head span{	}
+.dia {border: 1px solid black;width: 40px;float: left;height: 30px;text-align: center;padding: 0px; margin: 1px;}
